@@ -1,0 +1,2 @@
+haskell is fun
+haskell is not fun
